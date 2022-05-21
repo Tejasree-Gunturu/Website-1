@@ -1,0 +1,47 @@
+body {
+    background-image: url("./images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .heading{
+    font: 1em serif;
+    margin-left: 6%;
+    font-size: larger;
+    font-style: normal;
+    color: #000000;
+  }
+
+  .profile {
+    border-radius: 50%;
+    align-items: center;
+    width: 18%;
+    clear: right;
+    margin: 0 25%;
+  }
+
+  .about{
+    font-size: x-large ;
+    font-stretch: expanded;
+    text-align: left;
+    padding: 5%;
+    color: #000000;
+  
+  }
+
+  .btn {
+    margin: 5% 3% 5% 0;
+    margin-left: auto;
+    block-size: 40px;
+    border-block-color: #000000;
+    
+  }
+ 
+  .btn-dark {
+    margin-left: 27%;
+  }
+  
+ 
+  
+  
